@@ -19,6 +19,16 @@ TVS MATRICULATION HIGHER SECONDARY SCHOOL,Madurai<br>
 -95.5% in HSC<br>
 -98.2% in SSLC<br>
 
+# TECHNICAL QUALIFICATION 
+-C<br>
+-C++<br>
+-JAVA<br>
+-PYTHON<br>
+
+# SUBJECTS OF INTEREST
+-Computer Networks<br>
+-Digital Electronics<br>
+
 # PROJECT
 **TITLE** : Design of **“Portable Water Purifier”**.<br> Participated in Rural Innovators Startup Conclave (RISC-2018), Hyderabad.
 
